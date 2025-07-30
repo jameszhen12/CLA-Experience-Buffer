@@ -1,4 +1,3 @@
-"""\
 # final_experience_buffer_and_cnn_model.ipynb
 
 ## Description
